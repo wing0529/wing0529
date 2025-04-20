@@ -1,4 +1,4 @@
-##### 👀 I’m interested in Electric Engineering, Bio Medical Engineering
+##### 👀 I’m interested in Electric Engineering, HW/SW Co-Design
 ##### 🌱 I’m currently learning Electric Engineering
 ##### 💞️ I’m looking to collaborate on Circuit Design Projects, Embedded Systems and AI Projects 
 <!---
