@@ -1,6 +1,5 @@
 ##### 👀 I’m interested in Electric Engineering, HW/SW Co-Design
-##### 🌱 I’m currently learning Electric Engineering
-##### 💞️ I’m looking to collaborate on Circuit Design Projects, Embedded Systems and AI Projects 
+##### 🌱 I’m currently learning Electric Engineering 
 <!---
 wing0529/wing0529 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
