@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm KIM NA RAE</h1>
+
 ##### I’m interested in HW/SW Co-Design
 ##### I learned Electric Engineering 
 ##### I'm currently learing Computer Architecture, Accelerator Architecture
