@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm KIM NA RAE</h1>
 
-##### I’m interested in HW/SW Co-Design
-##### I learned Electric Engineering 
-##### I'm currently learing Computer Architecture, Accelerator Architecture
+#### Background in Electrical Engineering
+#### Currently learning Computer Architecture & Accelerator Architecture
+#### Interested in AI Accelerators and HW/SW Co-Design
 <!---
 wing0529/wing0529 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
