@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm KIM NA RAE</h1>
+<h2 align="center">Hi 👋, I'm KIM NA RAE</h1>
 
 #### Background in Electrical Engineering
-#### Currently learning Computer Architecture & Accelerator Architecture
+#### Currently learning Computer Architecture
 <!---
 #### Interested in AI Accelerators and HW/SW Co-Design
 <!---
